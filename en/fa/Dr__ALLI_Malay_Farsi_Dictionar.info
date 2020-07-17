@@ -1,0 +1,22 @@
+{
+	"name": "Dr.  ALLI  Malay - Farsi Dictionary",
+	"sourceLang": "English",
+	"targetLang": "Farsi",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1256",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1256",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"author": "Dr. VAHID ALLI",
+	"description": "اين ديكشنري به همت جناب آقاي ابوالفضل عبدلي و سر كار خانم زهرا رضواندوست به صورت كتاب منتشر  و اكنون به صورت الكترونيكي با اخذ مجوز از مولف جهت استفاده منتشر مي شود",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"creationTime": "2009/05/27, 03:54",
+	"bgl_middleUpdated": "2010/08/16, 03:48",
+	"data_entry_count": 2,
+	"defi_format_counter": "h=19, m=9465",
+	"defi_first_tag_counter": "br=16, b=3"
+}

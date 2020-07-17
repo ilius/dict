@@ -1,0 +1,20 @@
+{
+	"name": "Spanish-English Online Dictionaries",
+	"sourceLang": "Spanish",
+	"targetLang": "English",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1252",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"author": "Tom van der Meijden",
+	"email": "support@freewaresite.com",
+	"description": "Spanish English Dictionary",
+	"creationTime": "2000/06/06, 16:19",
+	"data_entry_count": 0,
+	"defi_format_counter": "m=19047",
+	"defi_first_tag_counter": ""
+}

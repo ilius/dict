@@ -1,0 +1,23 @@
+{
+	"name": "Farajbeik Farsi ( Windows Farsi )",
+	"sourceLang": "English",
+	"targetLang": "Farsi",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1256",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1256",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"bgl_middleUpdated": "2001/10/07, 08:54",
+	"author": "Farajbeik",
+	"email": "h_farajbeik@yahoo.com",
+	"description": "Version 4 of English to Farsi Dictionary. Use in Microsoft Windows with Farsi support. Copyright 2001, by Farajbeik",
+	"creationTime": "2000/10/02, 12:33",
+	"data_entry_count": 3,
+	"defi_format_counter": "h=1, m=84287",
+	"defi_first_tag_counter": "br=1"
+}

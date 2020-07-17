@@ -1,0 +1,23 @@
+{
+	"name": "English_Spanish by Jaime Aguirre",
+	"sourceLang": "English",
+	"targetLang": "Spanish",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1252",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1252",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"bgl_middleUpdated": "2005/12/21, 19:20",
+	"author": "Jaime Aguirre - http://www.spintra.com",
+	"email": "jaguirre@spintra.com",
+	"description": "English <> Spanish - Acronyms, automotive, business, clinical, computers, IT, financial, legal, medical, nautical, scientific, technical, jargon and much more... Please contact Spintra.com should you wish to purchase the fully bilingual bidirectional version with twice the content. Por favor contacte a Spintra.com si desea comprar la versión bilingüe completamente bidireccional y el doble de contenido - Última actualización: Diciembre de 2005 -",
+	"creationTime": "2001/10/13, 03:50",
+	"data_entry_count": 2,
+	"defi_format_counter": "h=9924, m=79248",
+	"defi_first_tag_counter": "b=8716, br=723, hr=225, i=192, a=60, u=8"
+}

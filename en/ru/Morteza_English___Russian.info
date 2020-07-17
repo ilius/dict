@@ -1,0 +1,23 @@
+{
+	"name": "Morteza English > Russian",
+	"sourceLang": "English",
+	"targetLang": "Russian",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1251",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1251",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"bgl_middleUpdated": "2004/09/17, 13:36",
+	"author": "Morteza Mahmoudzadeh",
+	"description": "",
+	"browsingEnabled": "True",
+	"creationTime": "1970/01/01, 00:00",
+	"data_entry_count": 3,
+	"defi_format_counter": "h=34629",
+	"defi_first_tag_counter": "b=33576, hr=914, br=138, i=1"
+}

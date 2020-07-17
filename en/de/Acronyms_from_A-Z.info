@@ -1,0 +1,23 @@
+{
+	"name": "Acronyms from A - Z",
+	"sourceLang": "English",
+	"targetLang": "German",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1252",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1252",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"bgl_middleUpdated": "2003/07/08, 22:27",
+	"author": "snigger@web.de",
+	"email": "snigger@web.de",
+	"description": "Dieses Glossar enthält mehr als 42.500 Einträge mit weit über 80.000 möglichen Abkürzungserklärungen.\r\nz.B:ICAO-Codes,RFC-Listen,LNC-Listen,A.n-Z.n(CCITT/ITU-)Empfehlungslisten,DIN-Listen,TopLevelDomains,Autokennzeichen,Armeedienstgrade,Sternzeichen,NASA-Mission usw.\r\nMit tausenden internen und externen Links (ohne Garantie).\r\nNeue Vorschläge sind immer willkommen.\r\nUpdates werden unregelmässig erstellt. Mehr Infos demnächst unter www.snigger.de.vu\r\n\r\nenjoy it.\r\nsniigger",
+	"creationTime": "2002/11/25, 17:27",
+	"data_entry_count": 2,
+	"defi_format_counter": "h=24259, m=18327",
+	"defi_first_tag_counter": "a=17216, br=6995, i=34, hr=10, b=4"
+}

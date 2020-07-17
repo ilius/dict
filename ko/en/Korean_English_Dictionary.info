@@ -1,0 +1,23 @@
+{
+	"name": "Korean-English Dictionary",
+	"sourceLang": "Korean",
+	"targetLang": "English",
+	"bgl_defaultCharset": "cp949",
+	"bgl_sourceCharset": "cp949",
+	"bgl_targetCharset": "cp949",
+	"bgl_defaultEncoding": "cp949",
+	"bgl_sourceEncoding": "cp949",
+	"bgl_targetEncoding": "cp949",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"bgl_middleUpdated": "2005/01/28, 04:18",
+	"author": "eDocuLab Inc.",
+	"description": "Korean English Dictionary includes contemporary Korean words with Hanja words.",
+	"creationTime": "2004/12/24, 04:55",
+	"data_entry_count": 2,
+	"defi_format_counter": "h=9954, m=53467",
+	"defi_first_tag_counter": "hr=5558, br=3120, sup=760, i=323, font=193"
+}

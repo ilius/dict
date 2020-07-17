@@ -1,0 +1,23 @@
+{
+	"name": "Morteza English > Farsi",
+	"sourceLang": "English",
+	"targetLang": "Farsi",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1256",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1256",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"bgl_middleUpdated": "2005/11/16, 09:12",
+	"author": "Morteza Hajimahmoodzadeh",
+	"description": "This English > Farsi computer-based dictionary has advantages as:<BR>\r\n1- Farsi words almost free of wrong (e.g. \" MI \" in continues past tense verbs).<BR>\r\n2- Parenthesis are free of wrong.<BR>\r\n3- By typing any word and \" ? \" after that word, you can see words with 2 or more parts (e.g. by typing \" go? \" you will see words suh: go out, go to ...)\r\n<BR>\r\n-... You have LINKED LIST in this dictionary\r\n<BR>\r\nMorteza Hajimahmoodzadeh - University of Isfahan<BR>\r\nMorteza16@yahoo.com<BR>\r\n-\r\n1-Mars 2004",
+	"browsingEnabled": "True",
+	"creationTime": "1970/01/01, 00:00",
+	"data_entry_count": 2,
+	"defi_format_counter": "h=16031, m=44261",
+	"defi_first_tag_counter": "hr=8424, a=7238, b=367, br=2"
+}

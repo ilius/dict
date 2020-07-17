@@ -1,0 +1,20 @@
+{
+	"name": "Dutch-English Online Dictionay",
+	"sourceLang": "Dutch",
+	"targetLang": "English",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1252",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"author": "Tom van der Meijden",
+	"email": "support@freewaresite.com",
+	"description": "Dutch English Dictionary",
+	"creationTime": "2000/06/06, 13:48",
+	"data_entry_count": 0,
+	"defi_format_counter": "m=12955",
+	"defi_first_tag_counter": ""
+}

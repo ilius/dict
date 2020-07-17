@@ -1,0 +1,22 @@
+{
+	"name": "Mehran - All about Computer",
+	"sourceLang": "English",
+	"targetLang": "Arabic",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1256",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1256",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"author": "Mehran Maghamizadeh",
+	"description": "This glossary translate any word about computer to farsi and description about it and show some web sites about it. This is a full glossary for software and computer terms and etc. In this glossary you can see some information about each program too. Just type name of the program. for upgrade this glossary go to Babylon site later or send me a letter.\r\nVersion : 2.0\r\nE-mail : Mehran_VB@Tebyan.Org\r\nCopyright (c) 2003-2004",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"creationTime": "2004/01/10, 13:34",
+	"bgl_middleUpdated": "2004/06/29, 10:07",
+	"data_entry_count": 3,
+	"defi_format_counter": "h=695, m=3121",
+	"defi_first_tag_counter": "br=539, hr=96, b=47, a=13"
+}

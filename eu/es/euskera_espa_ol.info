@@ -1,0 +1,23 @@
+{
+	"name": "euskera-español",
+	"sourceLang": "Basque",
+	"targetLang": "Spanish",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1252",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1252",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"bgl_middleUpdated": "2001/06/03, 23:51",
+	"author": "jesus lizaranzu",
+	"email": "jesus_li@teleline.es",
+	"description": "glosario euskera español",
+	"creationTime": "2000/12/26, 12:09",
+	"data_entry_count": 2,
+	"defi_format_counter": "h=232, m=17224",
+	"defi_first_tag_counter": "a=232"
+}

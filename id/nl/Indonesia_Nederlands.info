@@ -1,0 +1,22 @@
+{
+	"name": "Indonesia-Nederlands",
+	"sourceLang": "Indonesian",
+	"targetLang": "Dutch",
+	"bgl_sourceCharset": "cp1252",
+	"bgl_targetCharset": "cp1252",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1252",
+	"sourceCharset": "UTF-8",
+	"targetCharset": "UTF-8",
+	"bgl_utf8Encoding": "False",
+	"bgl_spellingAlternatives": "True",
+	"bgl_caseSensitive": "False",
+	"author": "Paul E. de Haan",
+	"description": "Indonesisch-Nederlands woordenboek. Kamus bahasa Indonesia-bahasa Belanda",
+	"creationTime": "2000/12/29, 14:11",
+	"bgl_middleUpdated": "2000/12/29, 14:30",
+	"data_entry_count": 2,
+	"defi_format_counter": "m=24819",
+	"defi_first_tag_counter": ""
+}
