@@ -36,7 +36,7 @@
 43801df25bcaba88d54af172d3cd021a4958df78  ./it/fa/2007-Italian_Persian.txt.bz2
 4604fd4adf7c68a732894aa9721628309d009028  ./en/fa/2000-English_Farsi_Text.txt.bz2
 4787d8ce5a28cf07f4862ed30d45760634dcc167  ./de/en/2003-Elif___German___English_Touris.txt.bz2
-48be539b806be3173ea43e611b5f522cdfdf8037  ./other/nl/Papiamento___Dutch.txt.bz2
+48be539b806be3173ea43e611b5f522cdfdf8037  ./other/nl/2001-Papiamento___Dutch.txt.bz2
 48e950eafec86ec96cd1ef1d7f950abf9948f99d  ./ru/ru/2003-Dahl_s_Russian_Dictionary.txt.bz2
 49138468bc738599cffd58ae08abcff1bc947e0d  ./nl/id/2000-Nederlands_Indonesia.txt.bz2
 49502fc80da103eb8120b1ebcf3e54ce70205d1e  ./ru/ru/2004-Efremova__Russian_Explanatory_.txt.bz2
@@ -48,7 +48,7 @@
 54d86e3949fe788e3cdcdc51a95a6b38fc957543  ./es/da/2005-JM_Spanish_Danish_Dictionary.txt.bz2
 56121af748cd013056166856419c073d89d3931c  ./es/ca/2001-Castellano_Valenciano.txt.bz2
 569364239e91b406faafa52935c2448c6d5cbcb8  ./en/fa/2001-Computer_And_IT_Dictionary_for_Persian_v4.01.txt.bz2
-5792c85342137d1db0d23a2170fcadaa279e7e3d  ./other/de/Glossary_of_Latin_Genus_Names.txt.bz2
+5792c85342137d1db0d23a2170fcadaa279e7e3d  ./other/de/2000-Glossary_of_Latin_Genus_Names.txt.bz2
 5b23e393c7b6b6a28ad55f44b6cb4322c9354fb0  ./en/ar/2004-English_Farsi_Computer_Terms.txt.bz2
 5c6570de445c6abfb3a21082c00e6217c3682051  ./fr/fa/2009-MB_Dictionary_French_to_Persia.txt.bz2
 5cadd94459508ff2e4cc5bbcb39a6fd681081c09  ./en/es/2005-Eng__Span_by_Jaime__guirre.txt.bz2
@@ -80,7 +80,7 @@
 82da2f4af8824819df78259c39d2ab50c0d723c6  ./de/es/2000-Schemma.txt.bz2
 84bf80c4ee846e4700d61106922ff5d407173b2c  ./nl/en/2006-Babylon_Dutch_English.txt.bz2
 872683142e948bc17f3d05e9da3ce8fcaab59289  ./en/fa/2004-Farsi_Aviation_Dictionary.txt.bz2
-8760f181dd4ef8bd35ef5f8384eb0800010fa926  ./other/es/Runasimi__Quechua____Espa_ol.txt.bz2
+8760f181dd4ef8bd35ef5f8384eb0800010fa926  ./other/es/2003-Runasimi__Quechua____Espa_ol.txt.bz2
 87d6bf9c8bbc101c932c2b3232c2c0fd6766e366  ./en/tr/2002-computer___electronics.txt.bz2
 8a0b69c08ffd573987711138f6d496faeafc0983  ./fr/en/2014-Babylon_French_English_diction.txt.bz2
 8a745d71217fc181d88c361ae9914a97b8418a30  ./my/en/2007-MalayToEnglish.txt.bz2
@@ -116,10 +116,10 @@ bb224a2426aa7652b19eaa9281c8d0a40f9002d8  ./en/es/2013-INGLESPANISH.txt.bz2
 c1d3c422eb9030ac78709c6595586780e24d9818  ./en/ar/2001-English_2_Arabic_Glossary.txt.bz2
 c1ff235dcece7fdb92f783f36aa0c4b6936cc1d2  ./en/nl/2014-Surinaams_Nederlands_Trafasi.txt.bz2
 c28d3df5fa5afe25adf1157042f7d5db2a1d52db  ./en/en/2002-9300__Computer_Acronyms.txt.bz2
-c5dce18d5b97034072ac3edb7fea3b9775aa74b5  ./other/nl/Dictionario_Interlingua___Nede.txt.bz2
+c5dce18d5b97034072ac3edb7fea3b9775aa74b5  ./other/nl/2004-Dictionario_Interlingua___Nede.txt.bz2
 c6d665e9f9e4f29e0d247d31f8b96ad8edc8337f  ./en/ru/2004-Morteza_English___Russian.txt.bz2
 cb32ccd5999e6524be9a38f9ee3a3fc6f635bedb  ./en/ur/2009-English_To_Urdu_Lughat.txt.bz2
-cb6bb56f9bfa5364913aa11834575d7a82d21907  ./other/es/Aragon_s_Castell_n.txt.bz2
+cb6bb56f9bfa5364913aa11834575d7a82d21907  ./other/es/2004-Aragon_s_Castell_n.txt.bz2
 cc44df9f04e03957da43edfa306ad81f389db0a5  ./fa/en/2005-HmT_Persian_English.txt.bz2
 cd22b57b7f6069ce61e2aafc4cd2b80da5c4ce8f  ./es/es/2004-Medciclopedia.txt.bz2
 cdeb0fdfc37081ed43ad112e73f265c651c41866  ./ru/de/2004-Russisch_Deutsch_Woerterbuch.txt.bz2
