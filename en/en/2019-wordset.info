@@ -1,0 +1,12 @@
+{
+	"name": "Wordset.org",
+	"website": "https://github.com/wordset/wordset-dictionary",
+	"sourceLang": "English",
+	"targetLang": "English",
+	"copyright": "Wordset by Wordset, Inc. is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Permissions beyond the scope of this license may be available by contacting us at contact@wordset.org. Full text of the Creative Commons Attribution-ShareAlike 4.0 International License can be found at: http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+	"lastUpdated": "2019/08/31, 23:43",
+	"word_count": 108134,
+	"data_entry_count": 0,
+	"defi_format_counter": "h=108134",
+	"defi_first_tag_counter": "p=108134"
+}
