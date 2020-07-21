@@ -1,0 +1,10 @@
+{
+	"name": "Arianpour English-Persian (OpenDictionary)",
+	"sourceLang": "English",
+	"targetLang": "Persian",
+	"word_count": 74959,
+	"data_entry_count": 0,
+	"defi_format_counter": "h=64340, m=10619",
+	"defi_tag_counter": "br=326868, i=141546, font=116435",
+	"defi_first_tag_counter": "font=62386, br=1954"
+}
