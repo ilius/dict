@@ -12,13 +12,17 @@
 	"author": "Per Christensson",
 	"copyright": "<a href=http://www.sharpened.net/glossary/index.php></a>",
 	"description": "A comprehensive glossary of computer and Internet terms, with easy-to-understand definitions.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2000/10/23, 07:56",
-	"bgl_middleUpdated": "2000/10/24, 07:04",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/10/24, 07:04",
+	"word_count": 279,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "h=21, m=255",
-	"defi_first_tag_counter": "a=14, br=6, b=1"
+	"defi_tag_counter": "a=26, br=18, b=5, u=1",
+	"defi_first_tag_counter": "a=14, br=6, b=1",
+	"style_counter": ""
 }

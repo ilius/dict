@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/08/26, 01:40",
 	"author": "ADO",
 	"description": "ADO's Französisch-Deutsch Wörterbuch",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/03/15, 15:06",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/08/26, 01:40",
+	"word_count": 70141,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=12, m=70125",
-	"defi_first_tag_counter": "br=12"
+	"defi_tag_counter": "br=12",
+	"defi_first_tag_counter": "br=12",
+	"style_counter": ""
 }

@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2003/06/19, 05:07",
 	"author": "Mario Jeckle, Stefan Mintert, Tim Weitzel, Barbara Zengler",
 	"email": "mario@jeckle.de",
 	"description": "The XML Acronym Demystifier; Project's homepage http://www.xml-acronym-demystifier.org/",
 	"creationTime": "2001/05/15, 09:20",
-	"data_entry_count": 16,
+	"lastUpdated": "2003/06/19, 05:07",
+	"word_count": 496,
+	"bword_count": 70,
+	"data_entry_count": 18,
 	"defi_format_counter": "h=477, m=1",
-	"defi_first_tag_counter": "b=336, a=134, hr=3, br=3, i=1"
+	"defi_tag_counter": "br=1338, a=767, hr=524, b=464, img=143, i=18",
+	"defi_first_tag_counter": "b=336, a=134, hr=3, br=3, i=1",
+	"style_counter": ""
 }

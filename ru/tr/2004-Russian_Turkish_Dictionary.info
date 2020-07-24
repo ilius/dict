@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/01/21, 01:38",
 	"author": "Huseyin MUFTUOGLU",
 	"email": "huseyin10@hotmail.com",
 	"description": "TR: Rusça kelimelerin Türkçe açıklamalarını içeren temel bir sözlüktür. Ruça kelimelerin sadece ilk (basic) anlamları olup, alternatifler yoktur.  RU: Ğóññêî-Òóğåöêèé ñëîâàğü, ñîäåğæèò îêîëî 21800 ñëîâ.  EN: This is a basic Russian-Turkish dictionary and contains only basic meanings of phrases, no alternatives. E-MAIL: huseyin10@hotmail.com",
 	"creationTime": "2004/01/01, 00:15",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/01/21, 01:38",
+	"word_count": 21787,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=48, m=21735",
-	"defi_first_tag_counter": "b=47, br=1"
+	"defi_tag_counter": "b=47, br=1",
+	"defi_first_tag_counter": "b=47, br=1",
+	"style_counter": ""
 }

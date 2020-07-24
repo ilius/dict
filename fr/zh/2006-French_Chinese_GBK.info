@@ -1,7 +1,8 @@
 {
 	"name": "French-Chinese GBK",
 	"sourceLang": "French",
-	"targetLang": "Chinese (S)",
+	"targetLang": "Chinese",
+	"targetLang2": "Simplified Chinese",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp936",
@@ -13,13 +14,17 @@
 	"author": "Mutant",
 	"email": "galencn@voila.fr",
 	"description": "GBK Version",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2006/05/13, 01:58",
-	"bgl_middleUpdated": "2006/05/13, 02:11",
-	"data_entry_count": 2,
+	"lastUpdated": "2006/05/13, 02:11",
+	"word_count": 149390,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=141918, m=7468",
-	"defi_first_tag_counter": "br=98632, font=43286"
+	"defi_tag_counter": "br=787520, font=174659",
+	"defi_first_tag_counter": "br=98632, font=43286",
+	"style_counter": ""
 }

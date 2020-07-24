@@ -1,7 +1,7 @@
 {
 	"name": "Dr.  ALLI  Malay - Farsi Dictionary",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
 	"bgl_defaultEncoding": "cp1252",
@@ -15,8 +15,12 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2009/05/27, 03:54",
-	"bgl_middleUpdated": "2010/08/16, 03:48",
-	"data_entry_count": 2,
+	"lastUpdated": "2010/08/16, 03:48",
+	"word_count": 9488,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=19, m=9465",
-	"defi_first_tag_counter": "br=16, b=3"
+	"defi_tag_counter": "br=180, b=4",
+	"defi_first_tag_counter": "br=16, b=3",
+	"style_counter": ""
 }

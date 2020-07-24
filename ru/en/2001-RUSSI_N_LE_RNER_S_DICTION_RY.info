@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2001/04/07, 01:44",
 	"author": "FEHMI DOGAN",
 	"email": "ofehmi@hotmail.com",
 	"description": "A LEARNER'S RUSSIAN DICTIONARY. \r\nWORDS WERE CHOSEN FROM RUSSIAN NEWSPAPERS,RUSSIAN CLASSIC LITERATURE AND RUSSIAN WEB SITES.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2001/04/05, 18:13",
-	"data_entry_count": 2,
+	"lastUpdated": "2001/04/07, 01:44",
+	"word_count": 59490,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=59486",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

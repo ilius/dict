@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2002/11/13, 23:35",
 	"author": "Carlos Guerrera",
 	"email": "mlenha@yahoo.com",
 	"description": "This is a very extensive glossary of computer acronyms. With a list of over 9300 computer acronyms, you're sure to find what you're looking for.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2002/11/13, 23:13",
-	"data_entry_count": 2,
+	"lastUpdated": "2002/11/13, 23:35",
+	"word_count": 6825,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=1, m=6820",
-	"defi_first_tag_counter": "hr=1"
+	"defi_tag_counter": "hr=2, br=2",
+	"defi_first_tag_counter": "hr=1",
+	"style_counter": ""
 }

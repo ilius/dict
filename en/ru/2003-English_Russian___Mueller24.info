@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2003/04/17, 09:38",
 	"author": "Mueller",
 	"email": "t.wladimir@arcor.de",
 	"description": "Mueller's English-Russian dictionary 24th edition, 67000 words, without transcriptions.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2003/04/14, 16:16",
-	"data_entry_count": 2,
+	"lastUpdated": "2003/04/17, 09:38",
+	"word_count": 66853,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=66849",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

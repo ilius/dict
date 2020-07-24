@@ -12,12 +12,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2005/05/28, 10:46",
 	"author": "Gabriel Ilardi",
 	"email": "g_the_master@hotmail.com",
 	"description": "E' un dizionario pensato per chi parla lo spagnolo, ma comunque è molto utile se parli l'italiano e hai bisogno di esprimerti in spagnolo. Si estás perfeccionando o aprendiendo italiano, este diccionario es esencial para ti. Encontrarás referencias en errores típicos de hispanohablantes que aprenden italiano, pronunciación, participios, gramática,etc. Son bienvenidos los comentarios y sugerencias (positivos o negativos). El crecimiento de este diccionario depende de ti.",
 	"creationTime": "2002/04/21, 20:16",
-	"data_entry_count": 2,
+	"lastUpdated": "2005/05/28, 10:46",
+	"word_count": 22859,
+	"bword_count": 1031,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=7686, m=15169",
-	"defi_first_tag_counter": "i=5998, b=709, hr=693, a=274, br=9, u=3"
+	"defi_tag_counter": "i=6224, b=2035, hr=1212, a=1059, br=213, u=66",
+	"defi_first_tag_counter": "i=5998, b=709, hr=693, a=274, br=9, u=3",
+	"style_counter": ""
 }

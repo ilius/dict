@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/06/07, 21:48",
 	"author": "Rem",
 	"email": "dmrem@mail.ru",
 	"description": "Новый словарь русского языка. Толково-словообразовательный.\r\nАвтор: Т. Ф. Ефремова.\r\nПечатное издание М.: «Русский язык», 2000.\r\n---\r\nКонвертация в формат Babylon: Золотых Рем\r\nДанный словарь взят с сайта Игната Алескандрова (http://traduko.lib.ru), где вы сможете найти версию этого словаря для Lingvo.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/06/06, 13:23",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/06/07, 21:48",
+	"word_count": 123859,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=123855",
-	"defi_first_tag_counter": "i=121125, b=1985, br=745"
+	"defi_tag_counter": "br=346136, i=252739, b=145755, font=3",
+	"defi_first_tag_counter": "i=121125, b=1985, br=745",
+	"style_counter": ""
 }

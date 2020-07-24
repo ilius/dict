@@ -1,7 +1,7 @@
 {
 	"name": "Azhdari :: German  To Persian Glossary  1.1",
 	"sourceLang": "German",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
@@ -17,8 +17,12 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2008/04/28, 17:23",
-	"bgl_middleUpdated": "2008/04/29, 20:10",
-	"data_entry_count": 2,
+	"lastUpdated": "2008/04/29, 20:10",
+	"word_count": 6221,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=1, m=6216",
-	"defi_first_tag_counter": "br=1"
+	"defi_tag_counter": "br=18, a=1",
+	"defi_first_tag_counter": "br=1",
+	"style_counter": ""
 }

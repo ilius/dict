@@ -1,7 +1,7 @@
 {
 	"name": "Salaty English-Farsi Dict. (Graphical ver.)",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
 	"bgl_defaultEncoding": "cp1252",
@@ -12,12 +12,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2000/12/21, 09:51",
 	"author": "Saiied Ali Hosseinzadeh Salaty",
 	"email": "salaty@ui.ac.ir",
 	"description": "English-Farsi (Persian) Aryanpur dictionary contains almost 50,000 words and definitions.<br>No Arabic font is required.<br>Presented by: Network and Information Center (NIC) of the university of Isfahan.<br>web site: www.ui.ac.ir<br>email: salaty@ui.ac.ir",
 	"creationTime": "2000/09/07, 15:00",
-	"data_entry_count": 51733,
+	"lastUpdated": "2000/12/21, 09:51",
+	"word_count": 101569,
+	"bword_count": 0,
+	"data_entry_count": 51734,
 	"defi_format_counter": "h=49835",
-	"defi_first_tag_counter": "img=49835"
+	"defi_tag_counter": "img=52313, hr=2478",
+	"defi_first_tag_counter": "img=49835",
+	"style_counter": ""
 }

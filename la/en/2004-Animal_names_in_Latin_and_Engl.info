@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/08/25, 03:54",
 	"author": "Luc Ockers",
 	"email": "luc.ockers@telenet.be",
 	"description": "Animal names in Latin and English",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/08/25, 03:53",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/08/25, 03:54",
+	"word_count": 14582,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=14578",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

@@ -15,7 +15,7 @@
 	"author": "Hojjat Rabiee",
 	"email": "homan_peik@yahoo.com",
 	"description": "Advanced farsi glossary with expression's details and similar word.\r\n\"Using in farsi or arabic windows\"\r\n\r\nemial:h_r_110@yahoo.com;homan_peik@yahoo.com ; web:www.geocities.com\\h_r_110",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2003/04/15, 15:54",
 	"lastUpdated": "2003/04/17, 12:49",
 	"word_count": 249647,
@@ -23,5 +23,6 @@
 	"data_entry_count": 5,
 	"defi_format_counter": "h=249642",
 	"defi_tag_counter": "br=1333168, hr=697370, a=556635, b=276826, img=1",
-	"defi_first_tag_counter": "hr=146324, br=103318"
+	"defi_first_tag_counter": "hr=146324, br=103318",
+	"style_counter": ""
 }

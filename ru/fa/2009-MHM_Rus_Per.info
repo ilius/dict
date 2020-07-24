@@ -1,7 +1,7 @@
 {
 	"name": "MHM Russian > Persian Dictionary",
 	"sourceLang": "Russian",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_sourceCharset": "cp1251",
 	"bgl_targetCharset": "cp1256",
 	"bgl_defaultEncoding": "cp1252",
@@ -12,13 +12,17 @@
 	"author": "Morteza Mahmoodzadeh",
 	"email": "morteza16@yahoo.com",
 	"description": "<Font Color=\"#0000DD\">This is a Russian to English to Persian computer-based dictionary:</Font><BR>\r\nIt is the first multi lingual dictionary and hence it can be improved<BR>\r\nI dedicate it to whome learn russian language.</Font><BR>\r\n<Font Color=\"#008888\">Morteza Hajimahmoodzadeh - University of Isfahan</Font><BR>\r\n<Font Color=\"#880088\">Morteza16@yahoo.com</Font><BR> 27-Feb. 2009",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2009/02/27, 14:14",
-	"bgl_middleUpdated": "2009/02/27, 14:17",
-	"data_entry_count": 2,
+	"lastUpdated": "2009/02/27, 14:17",
+	"word_count": 35110,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=34817, m=289",
-	"defi_first_tag_counter": "font=33821, br=610, hr=386"
+	"defi_tag_counter": "br=75693, font=44006, hr=37854, b=5133, i=136, fo=1",
+	"defi_first_tag_counter": "font=33821, br=610, hr=386",
+	"style_counter": ""
 }

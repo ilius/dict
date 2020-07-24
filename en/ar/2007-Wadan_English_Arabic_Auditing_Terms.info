@@ -13,13 +13,17 @@
 	"author": "Ahmad Wadan",
 	"email": "a.wadan@arablish.com",
 	"description": "Wadan English-Arabic Auditing Terms glossary is an English-Arabic glossary that contains terms used in auditing firms, especially the big four ones (Ernst & Young, KPMG, Deloitte and PwC \"Price Waterhouse Coopers\"), Moore Stephens International, together with translation into Arabic as used in Kuwait. Visit the author's Web page <a href=\"http://wadan.arablish.com\">AHMAD WADAN</a>.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2006/09/09, 07:31",
-	"bgl_middleUpdated": "2007/02/21, 12:56",
-	"data_entry_count": 2,
+	"lastUpdated": "2007/02/21, 12:56",
+	"word_count": 2180,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=2, m=2174",
-	"defi_first_tag_counter": "br=1, a=1"
+	"defi_tag_counter": "br=2, a=1",
+	"defi_first_tag_counter": "br=1, a=1",
+	"style_counter": ""
 }

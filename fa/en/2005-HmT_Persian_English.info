@@ -1,13 +1,8 @@
 {
 	"name": "HmT - Persian to English Glossary",
-	"sourceLang": "Persian",
-	"targetLang": "English",
-	"creationTime": "2005/11/20, 00:00",
-	"bgl_middleUpdated": "2005/11/20, 00:00",
-	"lastUpdated": "2005/11/20, 00:00",
-	"bgl_defaultEncoding": "utf-8",
-	"bgl_sourceEncoding": "utf-8",
-	"bgl_targetEncoding": "utf-8",
+	"bgl_defaultEncoding": "cp1252",
+	"bgl_sourceEncoding": "cp1252",
+	"bgl_targetEncoding": "cp1252",
 	"sourceCharset": "UTF-8",
 	"targetCharset": "UTF-8",
 	"description": "Version 2.01 - 2005/11/20 - http://babylon.hmt.ir\r\nA pretty comperhensive Persian to English glossary. the main feature of this glossary is the capability of searching the pharases that contains the specific word.\r\nPlease see my website for more information: http://babylon.hmt.ir.\r\nDon't hesitate to write me any problems or comments. info@hmt.ir",
@@ -15,7 +10,10 @@
 	"email": "Unknown",
 	"copyright": "Unknown",
 	"word_count": 50915,
+	"bword_count": 23537,
 	"data_entry_count": 0,
 	"defi_format_counter": "h=50915",
-	"defi_first_tag_counter": "table=44891, a=3394, hr=2630"
+	"defi_tag_counter": "hr=50914, table=44892, a=23537",
+	"defi_first_tag_counter": "table=44891, a=3394, hr=2630",
+	"style_counter": ""
 }

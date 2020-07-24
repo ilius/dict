@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2005/08/30, 05:16",
 	"author": "Chul-woo Pak",
 	"description": "",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2005/08/19, 15:53",
-	"data_entry_count": 2,
+	"lastUpdated": "2005/08/30, 05:16",
+	"word_count": 23580,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=15947, m=7629",
-	"defi_first_tag_counter": "font=15937, hr=10"
+	"defi_tag_counter": "font=85169, hr=141, b=2, memory=1, servomotor=1",
+	"defi_first_tag_counter": "font=15937, hr=10",
+	"style_counter": ""
 }

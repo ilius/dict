@@ -14,7 +14,11 @@
 	"email": "support@freewaresite.com",
 	"description": "Spanish English Dictionary",
 	"creationTime": "2000/06/06, 16:19",
-	"data_entry_count": 0,
+	"word_count": 19048,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "m=19047",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

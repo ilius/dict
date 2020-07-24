@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2003/10/08, 19:41",
 	"author": "eDocuLab Inc.",
 	"email": "webmaster@edoculab.co.kr",
 	"description": "The Romanization of Korean is based on the new announcement (July 7, 2000) of the Ministry Of Culture & Tourism Republic of Korea. The dictionary has so many entries including very detail Korean geographical designations and terms.",
 	"creationTime": "2003/09/07, 15:32",
-	"data_entry_count": 2,
+	"lastUpdated": "2003/10/08, 19:41",
+	"word_count": 7382,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=7378",
-	"defi_first_tag_counter": "br=7378"
+	"defi_tag_counter": "br=8961, font=8961, hr=1583",
+	"defi_first_tag_counter": "br=7378",
+	"style_counter": ""
 }

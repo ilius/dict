@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2003/11/01, 17:33",
 	"author": "Mohammed Imtiazuddin",
 	"email": "imtiaz_786@hotpop.com",
 	"description": "I have taken the original content from http://biphost.spray.se/tracker/dict/index.html  compiled by Waseem Siddiqui. For any comment, please contact me at imtiaz_786@yahoo.com",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2003/11/01, 13:32",
-	"data_entry_count": 2,
+	"lastUpdated": "2003/11/01, 17:33",
+	"word_count": 21888,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=21884",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

@@ -13,7 +13,11 @@
 	"author": "Gordon Holman",
 	"description": "Glossary of terms and deffinitions related to Solar Physics.",
 	"creationTime": "2000/06/14, 13:26",
-	"data_entry_count": 0,
+	"word_count": 75,
+	"bword_count": 113,
+	"data_entry_count": 1,
 	"defi_format_counter": "h=58, m=16",
-	"defi_first_tag_counter": "a=56, i=2"
+	"defi_tag_counter": "a=113, i=3, br=2, b=1",
+	"defi_first_tag_counter": "a=56, i=2",
+	"style_counter": ""
 }

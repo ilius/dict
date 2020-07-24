@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2000/09/23, 13:14",
 	"author": "Atilim Cetin",
 	"email": "shevek@hitnet.bbs.tr",
 	"description": "English to Turkish dictionary",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2000/09/23, 13:12",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/09/23, 13:14",
+	"word_count": 34408,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "m=34405",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

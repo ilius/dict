@@ -17,8 +17,12 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2002/02/02, 04:08",
-	"bgl_middleUpdated": "2009/02/07, 11:42",
-	"data_entry_count": 2,
+	"lastUpdated": "2009/02/07, 11:42",
+	"word_count": 52804,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=52800",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

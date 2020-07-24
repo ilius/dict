@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2005/01/09, 17:28",
 	"author": "ADO",
 	"description": "Deutsch-Niederländisches Wörterbuch mit woechentlicher Aktualisierung",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2005/01/07, 10:36",
-	"data_entry_count": 2,
+	"lastUpdated": "2005/01/09, 17:28",
+	"word_count": 83268,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=1, m=83263",
-	"defi_first_tag_counter": "b=1"
+	"defi_tag_counter": "b=1",
+	"defi_first_tag_counter": "b=1",
+	"style_counter": ""
 }

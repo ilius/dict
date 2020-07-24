@@ -1,6 +1,6 @@
 {
 	"name": "Pesian To English advanced",
-	"sourceLang": "Farsi",
+	"sourceLang": "Persian",
 	"targetLang": "English",
 	"bgl_defaultCharset": "cp1256",
 	"bgl_sourceCharset": "cp1256",
@@ -14,14 +14,18 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"lastUpdated": "2010/12/03, 12:11",
-	"bgl_middleUpdated": "2010/12/03, 12:11",
+	"bgl_firstUpdated": "2010/12/03, 12:11",
 	"author": "Reza Moshksar",
 	"email": "R.Moshksar@Gmail.com",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"copyright": "Virsion 2.0",
 	"creationTime": "2010/12/03, 09:25",
 	"description": "این ویرایش شامل:\r\nمعانی لغات انگلیسی به صورت همزمان- \r\nافزایش دامنه لغات-\r\n--افزودن افعال دوبخشی با برداشتن پیشوند\r\n-حذف لغات تکراری",
-	"data_entry_count": 0,
+	"word_count": 219913,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "h=206608, m=13304",
-	"defi_first_tag_counter": "font=206608"
+	"defi_tag_counter": "font=693720",
+	"defi_first_tag_counter": "font=206608",
+	"style_counter": ""
 }

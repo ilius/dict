@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/11/19, 16:41",
 	"author": "Wladimir Tereschko",
 	"email": "t.wladimir@arcor.de",
 	"description": "Russisch-Deutsch Woerterbuch",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/11/12, 12:28",
-	"data_entry_count": 7,
+	"lastUpdated": "2004/11/19, 16:41",
+	"word_count": 32014,
+	"bword_count": 0,
+	"data_entry_count": 9,
 	"defi_format_counter": "h=32005",
-	"defi_first_tag_counter": "b=32005"
+	"defi_tag_counter": "font=318128, b=163346, i=111155, br=63267, img=2250, sup=2",
+	"defi_first_tag_counter": "b=32005",
+	"style_counter": ""
 }

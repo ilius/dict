@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2003/01/21, 10:37",
 	"author": "Very Ltd",
 	"email": "dic@veryltd.com",
 	"description": "Vladimir Dahl's Russian Interpretive Dictionary<BR>Edition © <A HREF=\"http://www.veryltd.com\">Very Ltd</A>, 2003",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "1970/01/01, 00:00",
-	"data_entry_count": 4,
+	"lastUpdated": "2003/01/21, 10:37",
+	"word_count": 45744,
+	"bword_count": 10529,
+	"data_entry_count": 6,
 	"defi_format_counter": "h=45738",
-	"defi_first_tag_counter": "font=32462, br=13241, a=23, p=6, b=6"
+	"defi_tag_counter": "font=220862, i=152185, br=131905, a=56267, hr=45738, img=2830, p=2466, b=57",
+	"defi_first_tag_counter": "font=32462, br=13241, a=23, p=6, b=6",
+	"style_counter": ""
 }

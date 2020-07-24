@@ -14,14 +14,18 @@
 	"email": "dall@wincept.com",
 	"copyright": "Copyright © 2004-2006, Dr. Pavel Dallakian & Dipl.-Ing. Boris Yanyuk, <a href=\"http://www.wincept.com\">WinCept.com</a>. All rights reserved.",
 	"description": "The WinCept Glass Dictionary holds technical terms used in the glass industry and covers almost all sectors of glass container production, e.g., batch preparation, melting furnaces, forming machines, inspection, container packaging etc.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2006/05/15, 09:46",
-	"bgl_middleUpdated": "2006/09/07, 08:42",
+	"bgl_firstUpdated": "2006/09/07, 08:42",
 	"lastUpdated": "2006/09/07, 08:42",
-	"data_entry_count": 0,
+	"word_count": 5286,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "h=5285",
-	"defi_first_tag_counter": "i=5285"
+	"defi_tag_counter": "i=5303, br=1887",
+	"defi_first_tag_counter": "i=5285",
+	"style_counter": ""
 }

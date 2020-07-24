@@ -13,14 +13,18 @@
 	"author": "Tony Lozano",
 	"email": "alozano@ugr.es",
 	"description": "Compilation of terminology in the social sciences that students and professionals generally encounter when reading professional literature with a particular emphasis on information organisation and retrieval.  Last update April 2014. (http://eubd1.ugr.es)",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "True",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2006/12/12, 08:15",
-	"bgl_middleUpdated": "2014/04/05, 10:33",
+	"bgl_firstUpdated": "2014/04/05, 10:33",
 	"lastUpdated": "2014/04/05, 10:33",
-	"data_entry_count": 0,
+	"word_count": 99076,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "h=99075",
-	"defi_first_tag_counter": "i=97522, br=1547, b=6"
+	"defi_tag_counter": "i=416885, b=291437, br=253997, span=227732",
+	"defi_first_tag_counter": "i=97522, br=1547, b=6",
+	"style_counter": "span=227730"
 }

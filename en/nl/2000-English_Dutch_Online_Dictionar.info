@@ -14,7 +14,11 @@
 	"email": "support@freewaresite.com",
 	"description": "English Dutch Dictionary",
 	"creationTime": "2000/06/06, 16:35",
-	"data_entry_count": 0,
+	"word_count": 9916,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "m=9915",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

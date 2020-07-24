@@ -13,11 +13,15 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/07/30, 08:03",
 	"author": "Jose Luis Cavero",
 	"description": "Dizionario aragonés castellán",
 	"creationTime": "2001/04/25, 09:50",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/07/30, 08:03",
+	"word_count": 51127,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=51123",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

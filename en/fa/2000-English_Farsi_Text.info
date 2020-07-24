@@ -1,7 +1,7 @@
 {
 	"name": "Salaty English-Farsi Dict. (Text ver.)",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
 	"bgl_defaultEncoding": "cp1252",
@@ -15,8 +15,12 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2000/09/10, 10:59",
-	"bgl_middleUpdated": "2000/12/21, 11:59",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/12/21, 11:59",
+	"word_count": 49838,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "h=2383, m=47452",
-	"defi_first_tag_counter": "hr=2383"
+	"defi_tag_counter": "hr=2478",
+	"defi_first_tag_counter": "hr=2383",
+	"style_counter": ""
 }

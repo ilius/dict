@@ -1,7 +1,7 @@
 {
 	"name": "Computer And IT Dictionary for Persian v4.01",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
 	"bgl_defaultEncoding": "cp1252",
@@ -12,13 +12,17 @@
 	"author": "Mostafa Ghanatabady",
 	"email": "mohsenvajedi@gmail.com",
 	"description": "- It is free & perfect computer Dictionary\r\nfor persian with pictures & links. \r\n- use for (windows(98,2000,me,xp),\r\ninternet(International domain),mcse,hardware,programming,vb,\r\noffice,autocad,flash,photoshop,corel,norton,yahoo!,msn,...\r\n- it's best & first computer dictionary\r\nfor persian in www.babylon.com (& in world wide web.)\r\nPresented by: mostafa ghanatabady\r\nemail: mghanatabady@yahoo.com website:www.mghanatabady.8m.com\r\nfarsi font standard :Microsoft Windows XP",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2002/05/10, 13:05",
-	"bgl_middleUpdated": "2001/03/28, 12:48",
-	"data_entry_count": 94,
+	"lastUpdated": "2001/03/28, 12:48",
+	"word_count": 1359,
+	"bword_count": 2,
+	"data_entry_count": 96,
 	"defi_format_counter": "h=192, m=1071",
-	"defi_first_tag_counter": "br=189, hr=3"
+	"defi_tag_counter": "br=391, img=171, b=53, hr=21, a=4, i=1",
+	"defi_first_tag_counter": "br=189, hr=3",
+	"style_counter": ""
 }

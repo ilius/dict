@@ -1,7 +1,7 @@
 {
 	"name": "Geology Science (M.M.Ma'leki)",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
@@ -18,10 +18,14 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2007/01/11, 12:46",
-	"bgl_middleUpdated": "2013/07/12, 09:27",
+	"bgl_firstUpdated": "2013/07/12, 09:27",
 	"lastUpdated": "2013/07/12, 09:27",
-	"length": "100",
-	"data_entry_count": 229,
+	"bgl_length": "100",
+	"word_count": 27648,
+	"bword_count": 440,
+	"data_entry_count": 230,
 	"defi_format_counter": "h=16136, m=11282",
-	"defi_first_tag_counter": "br=16132, b=2, a=1, strong=1"
+	"defi_tag_counter": "br=33206, a=444, b=415, img=227, hr=27, strong=10, i=4, span=3, p=2",
+	"defi_first_tag_counter": "br=16132, b=2, a=1, strong=1",
+	"style_counter": "span=1"
 }

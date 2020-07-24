@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2001/06/03, 11:18",
 	"author": "John Hoeve",
 	"email": "john.hoeve@wxs.nl",
 	"description": "Import of Ergane dictionary (Dutch - Portugues). More entries and corrections will follow...",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2001/01/08, 19:43",
-	"data_entry_count": 2,
+	"lastUpdated": "2001/06/03, 11:18",
+	"word_count": 12013,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=47, m=11962",
-	"defi_first_tag_counter": "b=46, i=1"
+	"defi_tag_counter": "b=100, i=25, br=25, u=2, hr=2",
+	"defi_first_tag_counter": "b=46, i=1",
+	"style_counter": ""
 }

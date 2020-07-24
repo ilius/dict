@@ -12,12 +12,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/09/17, 13:36",
 	"author": "Morteza Mahmoudzadeh",
 	"description": "",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "1970/01/01, 00:00",
-	"data_entry_count": 3,
+	"lastUpdated": "2004/09/17, 13:36",
+	"word_count": 34634,
+	"bword_count": 0,
+	"data_entry_count": 5,
 	"defi_format_counter": "h=34629",
-	"defi_first_tag_counter": "b=33576, hr=914, br=138, i=1"
+	"defi_tag_counter": "b=90786, br=68272, hr=41602, i=1590, img=1",
+	"defi_first_tag_counter": "b=33576, hr=914, br=138, i=1",
+	"style_counter": ""
 }

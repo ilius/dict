@@ -17,11 +17,15 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2000/05/29, 18:13",
-	"bgl_middleUpdated": "2002/10/31, 00:00",
-	"purchaseAddress": "",
+	"bgl_firstUpdated": "2002/10/31, 00:00",
+	"bgl_purchaseAddress": "",
 	"lastUpdated": "2012/11/14, 12:03",
-	"contractions": "V-0#werkwoord|V-0.0#|V-0.1#infinitief|V-0.1.1#|V-1.0#|V-1.1#|V-1.1.1#tegenwoordige tijd|V-1.1.2#tegenwoordige tijd (derde pers. e.v.)|V-2.0#|V-2.1#|V-2.1.1#verleden tijd|V-3.0#|V-3.1#|V-3.1.1#voltooid tegenwoordige tijd|V-4.0#|V-4.1#|V-4.1.1#voltooid verleden tijd|V-5.0#|V-5.1#|V-5.1.1#toekomstige tijd|V2-0#|V2-0.0#|V2-0.1#infinitief|V2-0.1.1#|V2-1.0#|V2-1.1#|V2-1.1.1#tegenwoordige tijd (eerste pers. e.v.)|V2-1.1.2#tegenwoordige tijd (tweede pers. e.v. & meervoud)|V2-1.1.3#tegenwoordige tijd (derde pers. e.v.)|V2-2.0#|V2-2.1#|V2-2.1.1#verleden tijd (eerste & derde pers. e.v.)|V2-2.1.2#verleden tijd (tweede pers. e.v. & meervoud)|V2-3.0#|V2-3.1#|V2-3.1.1#voltooid tegenwoordige tijd|V2-4.0#|V2-4.1#|V2-4.1.1#voltooid verleden tijd|V2-5.0#|V2-5.1#|V2-5.1.1#toekomstige tijd||N-0#naamwoord|N-1.0#|N-1.1#|N-1.1.1#enkelvoud|N-2.0#|N-2.1#|N-2.1.1#meervoud|N4-1.0#|N4-1.1#|N4-1.1.1#mannelijk enkelvoud|N4-1.1.2#vrouwelijk enkelvoud|N4-2.0#|N4-2.1#|N4-2.1.1#mannelijk meervoud|N4-2.1.2#vrouwelijk meervoud||ADJ-0#bijvoeglijk naamwoord|ADJ-1.0#|ADJ-1.1#|ADJ-1.1.1#bijvoeglijk naamwoord|ADJ-1.1.2#vergrotende trap|ADJ-1.1.3#overtreffende trap||",
-	"data_entry_count": 2,
+	"bgl_contractions": "V-0#werkwoord|V-0.0#|V-0.1#infinitief|V-0.1.1#|V-1.0#|V-1.1#|V-1.1.1#tegenwoordige tijd|V-1.1.2#tegenwoordige tijd (derde pers. e.v.)|V-2.0#|V-2.1#|V-2.1.1#verleden tijd|V-3.0#|V-3.1#|V-3.1.1#voltooid tegenwoordige tijd|V-4.0#|V-4.1#|V-4.1.1#voltooid verleden tijd|V-5.0#|V-5.1#|V-5.1.1#toekomstige tijd|V2-0#|V2-0.0#|V2-0.1#infinitief|V2-0.1.1#|V2-1.0#|V2-1.1#|V2-1.1.1#tegenwoordige tijd (eerste pers. e.v.)|V2-1.1.2#tegenwoordige tijd (tweede pers. e.v. & meervoud)|V2-1.1.3#tegenwoordige tijd (derde pers. e.v.)|V2-2.0#|V2-2.1#|V2-2.1.1#verleden tijd (eerste & derde pers. e.v.)|V2-2.1.2#verleden tijd (tweede pers. e.v. & meervoud)|V2-3.0#|V2-3.1#|V2-3.1.1#voltooid tegenwoordige tijd|V2-4.0#|V2-4.1#|V2-4.1.1#voltooid verleden tijd|V2-5.0#|V2-5.1#|V2-5.1.1#toekomstige tijd||N-0#naamwoord|N-1.0#|N-1.1#|N-1.1.1#enkelvoud|N-2.0#|N-2.1#|N-2.1.1#meervoud|N4-1.0#|N4-1.1#|N4-1.1.1#mannelijk enkelvoud|N4-1.1.2#vrouwelijk enkelvoud|N4-2.0#|N4-2.1#|N4-2.1.1#mannelijk meervoud|N4-2.1.2#vrouwelijk meervoud||ADJ-0#bijvoeglijk naamwoord|ADJ-1.0#|ADJ-1.1#|ADJ-1.1.1#bijvoeglijk naamwoord|ADJ-1.1.2#vergrotende trap|ADJ-1.1.3#overtreffende trap||",
+	"word_count": 137791,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "h=90138, m=47650",
-	"defi_first_tag_counter": "font=88559, br=1579"
+	"defi_tag_counter": "br=129264, font=88559, i=18, a=3",
+	"defi_first_tag_counter": "font=88559, br=1579",
+	"style_counter": ""
 }

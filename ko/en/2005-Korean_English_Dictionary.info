@@ -13,11 +13,15 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2005/01/28, 04:18",
 	"author": "eDocuLab Inc.",
 	"description": "Korean English Dictionary includes contemporary Korean words with Hanja words.",
 	"creationTime": "2004/12/24, 04:55",
-	"data_entry_count": 2,
+	"lastUpdated": "2005/01/28, 04:18",
+	"word_count": 63425,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=9954, m=53467",
-	"defi_first_tag_counter": "hr=5558, br=3120, sup=760, i=323, font=193"
+	"defi_tag_counter": "hr=9786, br=6011, sup=1860, i=420, font=314",
+	"defi_first_tag_counter": "hr=5558, br=3120, sup=760, i=323, font=193",
+	"style_counter": ""
 }

@@ -1,6 +1,6 @@
 {
 	"name": "Persian Italian Glossary",
-	"sourceLang": "Farsi",
+	"sourceLang": "Persian",
 	"targetLang": "Italian",
 	"bgl_defaultCharset": "cp1256",
 	"bgl_sourceCharset": "cp1256",
@@ -14,13 +14,17 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"lastUpdated": "2007/09/09, 09:19",
-	"bgl_middleUpdated": "2007/09/09, 09:19",
+	"bgl_firstUpdated": "2007/09/09, 09:19",
 	"author": "Akbar Ghowli",
 	"email": "Ghowli@gmail.com",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2007/09/09, 08:16",
 	"description": "A Persian-Italian Glossary including 6377 words by Akbar Ghowli",
-	"data_entry_count": 0,
+	"word_count": 6378,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "h=6377",
-	"defi_first_tag_counter": "p=6377"
+	"defi_tag_counter": "font=19131, p=12754, br=12754, span=6377, i=6377, a=6377",
+	"defi_first_tag_counter": "p=6377",
+	"style_counter": ""
 }

@@ -15,10 +15,14 @@
 	"author": "Schemma",
 	"email": "jserranog@nexo.es",
 	"description": "Ya era hora de que hubiera un diccionario Alemán-Español. Es mejorable, pero más no puedo por ahora.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2000/08/26, 19:12",
-	"bgl_middleUpdated": "2000/09/15, 15:14",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/09/15, 15:14",
+	"word_count": 22426,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "m=22423",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

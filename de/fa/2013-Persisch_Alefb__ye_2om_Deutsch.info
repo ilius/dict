@@ -1,7 +1,7 @@
 {
 	"name": "Persisch-Deutsch; Deutsch-Persisch (Alefbâye 2om)",
 	"sourceLang": "German",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
@@ -13,15 +13,19 @@
 	"author": "Hamid Farroukh",
 	"copyright": "Creative Commons \nAttributionShareAlike \nCC BY-SA",
 	"description": "Ein Wörterbuch für Persisch-Deutsch und Deutsch-Persisch basierend auf Alefbâye 2om, einem Transkriptionsstandard für die persische Sprache. \nVersion 0.9",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "True",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2012/12/23, 13:56",
-	"bgl_middleUpdated": "2013/01/28, 20:41",
+	"bgl_firstUpdated": "2013/01/28, 20:41",
 	"lastUpdated": "2013/01/28, 20:41",
-	"length": "3",
-	"data_entry_count": 0,
+	"bgl_length": "3",
+	"word_count": 26736,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "m=26735",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

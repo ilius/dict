@@ -17,8 +17,12 @@
 	"email": "ling98@canada.com",
 	"description": "English-Russian dictionary",
 	"creationTime": "2000/08/17, 11:38",
-	"bgl_middleUpdated": "2000/08/20, 11:44",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/08/20, 11:44",
+	"word_count": 123656,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "h=123653",
-	"defi_first_tag_counter": "font=123653"
+	"defi_tag_counter": "font=123653",
+	"defi_first_tag_counter": "font=123653",
+	"style_counter": ""
 }

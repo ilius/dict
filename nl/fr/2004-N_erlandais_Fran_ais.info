@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/05/12, 15:35",
 	"author": "Bernard D. Desmedt",
 	"description": "Dictionnaire Néerlandais-Français en évolution constante, dès que lui, comme moi, sommes noyés dans l'incompréhension.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2000/11/22, 11:49",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/05/12, 15:35",
+	"word_count": 10154,
+	"bword_count": 87,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=70, m=10080",
-	"defi_first_tag_counter": "br=53, hr=13, a=3, font=1"
+	"defi_tag_counter": "a=86, br=79, hr=28, font=7",
+	"defi_first_tag_counter": "br=53, hr=13, a=3, font=1",
+	"style_counter": ""
 }

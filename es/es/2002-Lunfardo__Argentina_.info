@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2002/12/06, 18:45",
 	"author": "Salvador Maiorano",
 	"email": "salvador_maiorano@peoplesoft.com",
 	"description": "Repertorio de voces y modismos populares de Buenos Aires; en los comienzos, de carácter inmigratorio, que al circular en los estratos bajos de la sociedad se enriqueció con aportes autóctonos y algunos de cuyos elementos se incorporaron al habla común de la ciudad de origen y su zona de influencia cultural.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2002/11/15, 16:46",
-	"data_entry_count": 2,
+	"lastUpdated": "2002/12/06, 18:45",
+	"word_count": 14304,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=3993, m=10307",
-	"defi_first_tag_counter": "br=3993"
+	"defi_tag_counter": "br=6731",
+	"defi_first_tag_counter": "br=3993",
+	"style_counter": ""
 }

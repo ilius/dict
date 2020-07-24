@@ -15,10 +15,14 @@
 	"author": "Klaus Voss",
 	"email": "nkv@uni-jena.de",
 	"description": "spanisch-deutsches wissenschaftliches Wörterbuch",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2001/07/16, 10:03",
-	"bgl_middleUpdated": "2001/07/16, 10:07",
-	"data_entry_count": 2,
+	"lastUpdated": "2001/07/16, 10:07",
+	"word_count": 10484,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "m=10481",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

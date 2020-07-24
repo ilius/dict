@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/06/19, 06:34",
 	"author": "ADO",
 	"email": "adosanis@hotmail.com",
 	"description": "ADO's SPANISCH-DEUTSCH WÖRTERBUCH",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/06/18, 19:41",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/06/19, 06:34",
+	"word_count": 65697,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=80, m=65613",
-	"defi_first_tag_counter": "br=80"
+	"defi_tag_counter": "br=145",
+	"defi_first_tag_counter": "br=80",
+	"style_counter": ""
 }

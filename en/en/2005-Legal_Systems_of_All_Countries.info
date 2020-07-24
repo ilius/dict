@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2005/09/10, 22:10",
 	"author": "Muhammad Ibrahim Al Qarny",
 	"email": "msalqarny@yahoo.com",
 	"description": "This is a list of all legal systems in the world. Enter the name of any country and you'll find its legal system.\r\nnickcarter_2@hotmail.com",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2005/09/10, 20:06",
-	"data_entry_count": 2,
+	"lastUpdated": "2005/09/10, 22:10",
+	"word_count": 261,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=2, m=255",
-	"defi_first_tag_counter": "i=2"
+	"defi_tag_counter": "i=2",
+	"defi_first_tag_counter": "i=2",
+	"style_counter": ""
 }

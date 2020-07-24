@@ -1,6 +1,6 @@
 {
 	"name": "Farsi to arabic",
-	"sourceLang": "Farsi",
+	"sourceLang": "Persian",
 	"targetLang": "Arabic",
 	"bgl_defaultCharset": "cp1256",
 	"bgl_sourceCharset": "cp1256",
@@ -14,12 +14,16 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"lastUpdated": "2010/09/10, 05:32",
-	"bgl_middleUpdated": "2010/09/10, 05:32",
+	"bgl_firstUpdated": "2010/09/10, 05:32",
 	"author": "Reza",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2010/09/10, 05:31",
 	"description": "",
-	"data_entry_count": 0,
+	"word_count": 32577,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "m=32576",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

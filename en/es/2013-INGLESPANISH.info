@@ -1,7 +1,7 @@
 {
 	"name": "INGLESPANISH",
-	"sourceLang": "English",
-	"targetLang": "Spanish",
+	"sourceLang": "Other Western-European languages",
+	"targetLang": "Other",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1252",
 	"bgl_defaultEncoding": "cp1252",
@@ -12,13 +12,17 @@
 	"author": "Miguel Portillo",
 	"email": "portillomj@rediffmail.com",
 	"description": "Diccionario Inglés-Español (v.80) complementario de Babylon, con frases y palabras compuestas provenientes de muchos y variados campos: general, arquitectura, botánica, jardinería, filosofía, religión, argot, etnología, mitología, ecología, biología, matemáticas, yoga, tai qi, autoayuda, anatomía, fisiología, medicina, oftalmología, medio ambiente, ictiología, zoología, entomología, náutica, economía, música, orografía, geografía, montañismo, alimentación, textil, mecánica...",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2003/07/23, 06:36",
-	"bgl_middleUpdated": "2013/08/11, 21:15",
-	"data_entry_count": 2,
+	"lastUpdated": "2013/08/11, 21:15",
+	"word_count": 32472,
+	"bword_count": 66,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=7566, m=24902",
-	"defi_first_tag_counter": "i=6309, hr=487, br=396, b=335, a=37, p=2"
+	"defi_tag_counter": "i=7186, br=3329, b=2141, hr=705, a=66, u=65, p=2",
+	"defi_first_tag_counter": "i=6309, hr=487, br=396, b=335, a=37, p=2",
+	"style_counter": ""
 }

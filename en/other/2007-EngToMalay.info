@@ -12,13 +12,17 @@
 	"targetCharset": "UTF-8",
 	"author": "Comiled by: Siamak Sarmady",
 	"description": "English to Malay dictionary compiled from \"Free MalayDictionary v2.0 (28.1.2006)\".\r\nDictionary Datas by: http://malay.malaysialounge.com\r\nConvert and Compile by: Siamak Sarmady, Universiti Sains Malaysia, http://sarmady.com/siamak",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2007/04/10, 04:27",
-	"bgl_middleUpdated": "2007/04/10, 07:55",
-	"data_entry_count": 2,
+	"lastUpdated": "2007/04/10, 07:55",
+	"word_count": 23600,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=23596",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

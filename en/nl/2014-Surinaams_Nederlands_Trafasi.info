@@ -13,13 +13,17 @@
 	"author": "Pieter Kuiper",
 	"email": "info@pieterkuiper.com",
 	"description": "Woordenboek Surinaams - Nederlands  ( Sranantongo - Bakratongo )\r\n\r\nDit woordenboek is verzorgd en wordt onderhouden door: Pieter Kuiper, Stedum, The Netherlands\r\n\r\ninfo@pieterkuiper.com    ********    http://www.pieterkuiper.com",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2013/02/14, 13:27",
-	"bgl_middleUpdated": "2014/11/16, 09:58",
-	"data_entry_count": 2,
+	"lastUpdated": "2014/11/16, 09:58",
+	"word_count": 4328,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=127, m=4197",
-	"defi_first_tag_counter": "br=122, i=3, b=2"
+	"defi_tag_counter": "br=223, i=45, b=2",
+	"defi_first_tag_counter": "br=122, i=3, b=2",
+	"style_counter": ""
 }

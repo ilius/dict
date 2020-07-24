@@ -12,12 +12,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2001/06/03, 23:51",
 	"author": "jesus lizaranzu",
 	"email": "jesus_li@teleline.es",
 	"description": "glosario euskera español",
 	"creationTime": "2000/12/26, 12:09",
-	"data_entry_count": 2,
+	"lastUpdated": "2001/06/03, 23:51",
+	"word_count": 17460,
+	"bword_count": 232,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=232, m=17224",
-	"defi_first_tag_counter": "a=232"
+	"defi_tag_counter": "a=232",
+	"defi_first_tag_counter": "a=232",
+	"style_counter": ""
 }

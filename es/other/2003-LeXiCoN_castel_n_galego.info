@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2003/02/05, 09:32",
 	"author": "Servando Doval",
 	"email": "megadoval@mixmail.com",
 	"description": "Esta é unha recopilación de termos arqueolóxicos e xeográficos e editoariais, así como vocabulario relacionado coas ciencias naturais e a historia. De momento, a única obra de referencia do galego en Babylon. Agardemos que a súa presencia sexa máis numerosa co tempo. ©Universidade de Santiago de Compostela, colectivo \"A Corrente\", Candocia Pita, P. (e outros) e Blanco Valdés, Xoán L.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2003/01/30, 15:33",
-	"data_entry_count": 2,
+	"lastUpdated": "2003/02/05, 09:32",
+	"word_count": 8070,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=247, m=7819",
-	"defi_first_tag_counter": "i=142, br=105"
+	"defi_tag_counter": "i=163, br=128",
+	"defi_first_tag_counter": "i=142, br=105",
+	"style_counter": ""
 }

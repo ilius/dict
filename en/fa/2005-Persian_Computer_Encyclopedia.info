@@ -1,7 +1,7 @@
 {
 	"name": "Persian Computer Encyclopedia",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2005/09/22, 10:05",
 	"author": "Mehran Maghamizadeh",
 	"email": "MehranVB@Gmail.Com",
 	"description": "<font color=\"blue\">This is a strong English-Persian dictionary in Farsi language about computer \r\nthat contains over 12,000 entries and 50,000 keywords. <br>To get more information please type \r\n<b> help </b> in the textbox of Babylon dictionary.<br>E-mail : <a \r\nhref=\"MehranVB@Gmail.Com\">MehranVB@Gmail.Com</a><br>Weblog : <a \r\nhref=\"Babylon5.Blogfa.Com\">Babylon5.Blogfa.Com</a><br><i>Copyright© Perisan Computer \r\nEncyclopedia By MehranVB 2003-2005</i>",
 	"creationTime": "2004/01/10, 13:34",
-	"data_entry_count": 3,
+	"lastUpdated": "2005/09/22, 10:05",
+	"word_count": 11624,
+	"bword_count": 39,
+	"data_entry_count": 5,
 	"defi_format_counter": "h=3085, m=8534",
-	"defi_first_tag_counter": "br=1638, b=1200, hr=176, u=46, a=12, i=9, center=1, div=1, table=1, tr=1"
+	"defi_tag_counter": "br=7360, b=1736, td=744, div=744, p=634, i=591, u=413, hr=343, a=264, tr=250, table=7, center=3, img=1",
+	"defi_first_tag_counter": "br=1638, b=1200, hr=176, u=46, a=12, i=9, center=1, div=1, table=1, tr=1",
+	"style_counter": ""
 }

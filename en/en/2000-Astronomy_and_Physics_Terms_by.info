@@ -15,10 +15,14 @@
 	"author": "Bill McCoy",
 	"email": "Webmaster@ExploreSpace.com",
 	"description": "Glossary of terms related to astronomy and physics.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2000/08/08, 11:46",
-	"bgl_middleUpdated": "2000/08/08, 12:01",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/08/08, 12:01",
+	"word_count": 263,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "m=260",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

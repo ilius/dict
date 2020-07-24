@@ -17,10 +17,14 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2000/05/29, 18:13",
-	"bgl_middleUpdated": "2002/10/31, 00:00",
-	"purchaseAddress": "",
+	"bgl_firstUpdated": "2002/10/31, 00:00",
+	"bgl_purchaseAddress": "",
 	"lastUpdated": "2008/06/04, 13:13",
-	"data_entry_count": 2,
+	"word_count": 212885,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "h=212454, m=428",
-	"defi_first_tag_counter": "font=211203, i=1251"
+	"defi_tag_counter": "font=211203, br=211203, i=208312, sup=2, b=1",
+	"defi_first_tag_counter": "font=211203, i=1251",
+	"style_counter": ""
 }

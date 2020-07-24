@@ -1,7 +1,7 @@
 {
 	"name": "Industrial Engineering Version 2.0",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
@@ -17,8 +17,12 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2003/05/19, 04:41",
-	"bgl_middleUpdated": "2006/09/15, 08:26",
-	"data_entry_count": 2,
+	"lastUpdated": "2006/09/15, 08:26",
+	"word_count": 1479,
+	"bword_count": 108,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=450, m=1025",
-	"defi_first_tag_counter": "hr=404, a=22, br=20, b=3, i=1"
+	"defi_tag_counter": "hr=426, a=111, br=97, b=8, u=7, i=2",
+	"defi_first_tag_counter": "hr=404, a=22, br=20, b=3, i=1",
+	"style_counter": ""
 }

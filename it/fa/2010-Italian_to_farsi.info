@@ -1,7 +1,7 @@
 {
 	"name": "Italian to farsi",
 	"sourceLang": "Italian",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
@@ -14,12 +14,16 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"lastUpdated": "2010/09/10, 05:20",
-	"bgl_middleUpdated": "2010/09/10, 05:20",
+	"bgl_firstUpdated": "2010/09/10, 05:20",
 	"author": "Reza",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2010/09/10, 05:18",
 	"description": "",
-	"data_entry_count": 0,
+	"word_count": 3198,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "m=3197",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

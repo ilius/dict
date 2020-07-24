@@ -1,7 +1,7 @@
 {
 	"name": "Hafez Poems",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
 	"bgl_defaultEncoding": "cp1252",
@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2005/05/30, 01:23",
 	"author": "Ali Haghighi",
 	"email": "ali_22ir@yahoo.com",
 	"description": "This is a glossary that contains all of the poems of Hafez, one of the finest lyric poets of Persia.\r\n<br>\r\nFor more info on using this glossary , type <b>hafez help</b> or <b>hafez</b> in the search bar of Babylon.\r\n<br>\r\nCreated by : Ali Haghighi",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2005/05/24, 19:32",
-	"data_entry_count": 3,
+	"lastUpdated": "2005/05/30, 01:23",
+	"word_count": 502,
+	"bword_count": 1,
+	"data_entry_count": 5,
 	"defi_format_counter": "h=497",
-	"defi_first_tag_counter": "br=497"
+	"defi_tag_counter": "br=12603, hr=4, a=1, img=1",
+	"defi_first_tag_counter": "br=497",
+	"style_counter": ""
 }

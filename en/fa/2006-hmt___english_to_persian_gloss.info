@@ -1,7 +1,7 @@
 {
 	"name": "HmT - English to Persian Glossary",
 	"sourceLang": "English",
-	"targetLang": "Farsi",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1252",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1256",
@@ -13,13 +13,17 @@
 	"author": "Hashem Tatari",
 	"email": "info@hmt.ir",
 	"description": "Version 1.01 - 2005/05/09\r\nVisit my website for more information: http://babylon.hmt.ir\r\nDon't hesitate to write me any problems or ideas. info@hmt.ir",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2005/02/21, 13:22",
-	"bgl_middleUpdated": "2006/08/30, 05:30",
-	"data_entry_count": 2,
+	"lastUpdated": "2006/08/30, 05:30",
+	"word_count": 19631,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=1, m=19626",
-	"defi_first_tag_counter": "br=1"
+	"defi_tag_counter": "br=3",
+	"defi_first_tag_counter": "br=1",
+	"style_counter": ""
 }

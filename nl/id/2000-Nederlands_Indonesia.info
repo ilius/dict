@@ -1,7 +1,7 @@
 {
 	"name": "Nederlands-Indonesia",
 	"sourceLang": "Dutch",
-	"targetLang": "Indonesian",
+	"targetLang": "Other",
 	"bgl_sourceCharset": "cp1252",
 	"bgl_targetCharset": "cp1252",
 	"bgl_defaultEncoding": "cp1252",
@@ -15,8 +15,12 @@
 	"author": "Paul E. de Haan",
 	"description": "Nederlands-Indonesisch woordenboek. Kamus bahasa Belanda-behasa Indonesia",
 	"creationTime": "2000/12/29, 14:14",
-	"bgl_middleUpdated": "2000/12/29, 14:27",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/12/29, 14:27",
+	"word_count": 20548,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "m=20545",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

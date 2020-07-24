@@ -1,6 +1,7 @@
 {
 	"name": "Babylon Chinese(S)-English",
-	"sourceLang": "Chinese (S)",
+	"sourceLang": "Chinese",
+	"sourceLang2": "Simplified Chinese",
 	"targetLang": "English",
 	"bgl_defaultCharset": "cp936",
 	"bgl_sourceCharset": "cp936",
@@ -17,10 +18,14 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2000/05/29, 18:13",
-	"bgl_middleUpdated": "2002/10/31, 00:00",
-	"purchaseAddress": "",
+	"bgl_firstUpdated": "2002/10/31, 00:00",
+	"bgl_purchaseAddress": "",
 	"lastUpdated": "2006/10/17, 10:05",
-	"data_entry_count": 2,
+	"word_count": 56922,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "h=56919",
-	"defi_first_tag_counter": "font=56339, i=580"
+	"defi_tag_counter": "i=113840, font=56339, br=56339",
+	"defi_first_tag_counter": "font=56339, i=580",
+	"style_counter": ""
 }

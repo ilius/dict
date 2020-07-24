@@ -1,6 +1,6 @@
 {
 	"name": "Ourstat - Farsi to English Dictionary",
-	"sourceLang": "Farsi",
+	"sourceLang": "Persian",
 	"targetLang": "English",
 	"bgl_defaultCharset": "cp1256",
 	"bgl_sourceCharset": "cp1256",
@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/02/18, 09:11",
 	"author": "Abbas Eslami",
 	"email": "info@ourstat.com",
 	"description": "Version 1.2 of  OURSTAT -  Farsi to English Dictionary. Last update 18/2/2004, by Abbas Eslami. Email Address: info@ourstat.com\r\nFor use this Dictionary please enable farsi or Arabic support of Microsoft Windows 98/2000/XP/Server 2003 ( Farsi support).\r\nWe are tring to add about 200,000 Farsi words to this dictionary. So stay tuned and see updates.\r\nvisit our site : http://www.ourstat.com",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/02/17, 08:34",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/02/18, 09:11",
+	"word_count": 43748,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=43744",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

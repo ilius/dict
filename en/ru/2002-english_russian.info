@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2002/05/17, 22:33",
 	"author": "omer fehmi dogan",
 	"email": "ofehmi@hotmail.com",
 	"description": "english-russian basic dictionary",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2002/05/17, 22:32",
-	"data_entry_count": 2,
+	"lastUpdated": "2002/05/17, 22:33",
+	"word_count": 17853,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=17849",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

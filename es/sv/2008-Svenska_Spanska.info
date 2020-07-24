@@ -13,14 +13,18 @@
 	"author": "Spooky",
 	"copyright": "(c) 2007 Language Council of Sweden (Språkrådet)",
 	"description": "Lexin är en kombination av lexikon och ordböcker som har tagits fram av Myndigheten för skolutveckling för användning i invandrarundervisningen. För närvarande omfattar Lexin cirka 30 000 ord och finns på femton olika språk. Sedan den 1 januari 2007 har Språkrådet, en avdelning inom språkmyndigheten Institutet för språk och folkminnen, ansvaret för Lexin. Böckerna kan köpas genom Lexins nätbokhandel.",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2008/05/18, 20:50",
-	"bgl_middleUpdated": "2008/05/19, 00:30",
+	"bgl_firstUpdated": "2008/05/19, 00:30",
 	"lastUpdated": "2008/05/19, 00:30",
-	"data_entry_count": 0,
+	"word_count": 28034,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "h=27796, m=237",
-	"defi_first_tag_counter": "br=27792, i=4"
+	"defi_tag_counter": "font=100769, br=77078, strong=27460, i=26135, a=114",
+	"defi_first_tag_counter": "br=27792, i=4",
+	"style_counter": ""
 }

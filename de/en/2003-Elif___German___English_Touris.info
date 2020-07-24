@@ -12,13 +12,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2003/01/07, 00:04",
 	"author": "oguz arici",
 	"email": "yazarici@hotmail.com",
 	"description": "e-mail: yazarici@hotmail.com",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2003/01/06, 02:40",
-	"data_entry_count": 2,
+	"lastUpdated": "2003/01/07, 00:04",
+	"word_count": 32416,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "m=32412",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

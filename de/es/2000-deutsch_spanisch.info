@@ -15,10 +15,14 @@
 	"author": "K.Voss",
 	"email": "nkv@uni-jena.de",
 	"description": "Wissenschaftliches Wörterbuch deutsch-spanisch",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2000/08/29, 10:07",
-	"bgl_middleUpdated": "2000/09/21, 07:13",
-	"data_entry_count": 2,
+	"lastUpdated": "2000/09/21, 07:13",
+	"word_count": 10605,
+	"bword_count": 0,
+	"data_entry_count": 3,
 	"defi_format_counter": "m=10602",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

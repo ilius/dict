@@ -14,8 +14,12 @@
 	"copyright": "<a href='http://www.myweb.com.my/webmaster/flavours/glossry/glossary.htm '></a>",
 	"description": "A collection of terms of Malaysian herbs, spices and other ingredients.",
 	"creationTime": "2000/06/13, 11:35",
-	"bgl_middleUpdated": "2000/06/28, 12:12",
-	"data_entry_count": 0,
+	"lastUpdated": "2000/06/28, 12:12",
+	"word_count": 40,
+	"bword_count": 0,
+	"data_entry_count": 1,
 	"defi_format_counter": "m=39",
-	"defi_first_tag_counter": ""
+	"defi_tag_counter": "",
+	"defi_first_tag_counter": "",
+	"style_counter": ""
 }

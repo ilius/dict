@@ -14,12 +14,16 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"lastUpdated": "2012/05/31, 11:04",
-	"bgl_middleUpdated": "2012/05/31, 11:04",
+	"bgl_firstUpdated": "2012/05/31, 11:04",
 	"author": "ebrahim",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2012/05/31, 10:14",
 	"description": "",
-	"data_entry_count": 0,
+	"word_count": 101406,
+	"bword_count": 29614,
+	"data_entry_count": 1,
 	"defi_format_counter": "h=101405",
-	"defi_first_tag_counter": "br=101405"
+	"defi_tag_counter": "br=558799, i=398380, font=293905, b=108479, a=29614",
+	"defi_first_tag_counter": "br=101405",
+	"style_counter": ""
 }

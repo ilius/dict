@@ -13,12 +13,16 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/10/27, 08:53",
 	"author": "ADO",
 	"description": "WOORDENBOEK TURKS-NEDERLANDS",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "1998/12/31, 22:17",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/10/27, 08:53",
+	"word_count": 7492,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=93, m=7395",
-	"defi_first_tag_counter": "br=93"
+	"defi_tag_counter": "br=94",
+	"defi_first_tag_counter": "br=93",
+	"style_counter": ""
 }

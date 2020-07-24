@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/01/17, 11:38",
 	"author": "Piet Cleij",
 	"email": "cleij@xs4all.nl",
 	"description": "Le \"Dictionario Interlingua-Nederlandese\" (DIN) contine le quasi-totalitate del entratas del \"Interlingua-English Dictionary\" (IED) que le I.A.L.A. ha publicate in le anno 1950. Applicante le methodos de selection exponite in le introduction del IED, io ha addite circa 23.500 entratas al stock del IED.\r\n\r\nBen que le DIN es destinate al interlinguistas nederlandophone, anque altere interlinguistas, specialmente le lexicographos inter illes, pote profitar del material presentate. Le collection de milles de combinationes de parolas, de expressiones e locationes, pote esser utile al preparation de simile dictionarios pro simile altere linguas.\r\n\r\nPiet Cleij",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/01/17, 11:11",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/01/17, 11:38",
+	"word_count": 49606,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=49559, m=43",
-	"defi_first_tag_counter": "i=49537, b=17, br=3, u=2"
+	"defi_tag_counter": "br=148600, i=141076, b=107051, u=150",
+	"defi_first_tag_counter": "i=49537, b=17, br=3, u=2",
+	"style_counter": ""
 }

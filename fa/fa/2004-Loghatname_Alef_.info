@@ -1,7 +1,7 @@
 {
 	"name": "Loghatname(Alef)",
-	"sourceLang": "Farsi",
-	"targetLang": "Farsi",
+	"sourceLang": "Persian",
+	"targetLang": "Persian",
 	"bgl_defaultCharset": "cp1256",
 	"bgl_sourceCharset": "cp1256",
 	"bgl_targetCharset": "cp1256",
@@ -13,13 +13,17 @@
 	"bgl_utf8Encoding": "False",
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
-	"bgl_middleUpdated": "2004/07/13, 09:22",
 	"author": "Mahdi Mashayekhi",
 	"email": "mmashayekhi@email.com",
 	"description": "An under construction glossary that contains Farsi to Farsi descriptions.\r\nthis beta release only contains words starting with Alef ....\r\nupdates",
-	"browsingEnabled": "True",
+	"bgl_browsingEnabled": "True",
 	"creationTime": "2004/07/12, 09:55",
-	"data_entry_count": 2,
+	"lastUpdated": "2004/07/13, 09:22",
+	"word_count": 25632,
+	"bword_count": 0,
+	"data_entry_count": 4,
 	"defi_format_counter": "h=3694, m=21934",
-	"defi_first_tag_counter": "hr=3694"
+	"defi_tag_counter": "hr=7191",
+	"defi_first_tag_counter": "hr=3694",
+	"style_counter": ""
 }

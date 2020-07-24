@@ -15,8 +15,12 @@
 	"bgl_spellingAlternatives": "True",
 	"bgl_caseSensitive": "False",
 	"creationTime": "2004/01/10, 13:34",
-	"bgl_middleUpdated": "2004/06/29, 10:07",
-	"data_entry_count": 3,
+	"lastUpdated": "2004/06/29, 10:07",
+	"word_count": 3821,
+	"bword_count": 16,
+	"data_entry_count": 5,
 	"defi_format_counter": "h=695, m=3121",
-	"defi_first_tag_counter": "br=539, hr=96, b=47, a=13"
+	"defi_tag_counter": "br=951, a=233, hr=137, b=61, i=3, img=1",
+	"defi_first_tag_counter": "br=539, hr=96, b=47, a=13",
+	"style_counter": ""
 }
