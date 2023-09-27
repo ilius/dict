@@ -21,9 +21,12 @@
 	"description": "Collins COBUILD Advanced Learner's Dictionary 2006",
 	"word_count": 34160,
 	"bword_count": 6144,
+	"non_lowercase_word_count": 1914,
 	"data_entry_count": 1,
-	"defi_format_counter": "h=34159",
-	"defi_tag_counter": "br=223161, b=178147, font=109819, i=74411, sup=10090, a=6144, sub=244, dw=12",
-	"defi_first_tag_counter": "b=34159",
-	"style_counter": ""
+	"data_entry_extension_count": "ico=1",
+	"defi_format": "h=34159",
+	"defi_tag": "br=223161, b=178147, font=109819, i=74411, sup=10090, a=6144, sub=244, dw=12",
+	"defi_first_tag": "b=34159",
+	"style": "",
+	"source_script": "Latin=34157, None=3"
 }
