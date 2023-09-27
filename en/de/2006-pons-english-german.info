@@ -25,16 +25,15 @@
 	"bgl_titleWide": "PONS Universelles Wörterbuch Englisch-Deutsch",
 	"bgl_authorWide": "PONS",
 	"lastUpdated": "2006/02/16, 08:19",
-	"about_extension": ".pdf",
 	"email": "linguistic-support@babylon.com",
-	"word_count": 54543,
+	"word_count": 54544,
 	"bword_count": 863,
 	"non_lowercase_word_count": 3049,
-	"data_entry_count": 57,
-	"data_entry_extension_count": "bmp=43, jpg=9, ico=2, jpgm=2, html=1",
+	"data_entry_count": 58,
+	"data_entry_extension_count": "bmp=43, jpg=9, ico=2, jpgm=2, pdf=1, html=1",
 	"defi_format": "h=54486",
 	"defi_tag": "font=217710, i=152859, td=149228, b=111607, br=110708, tr=74614, strong=74614, div=66142, img=55836, table=44524, span=13834, sup=3254, a=862",
 	"defi_first_tag": "br=52949, sup=1037, b=394, i=92, img=14",
 	"style": "TD=74614, DIV=66142, SPAN=13834",
-	"source_script": "Latin=54542, None=1"
+	"source_script": "Latin=54543, None=1"
 }
