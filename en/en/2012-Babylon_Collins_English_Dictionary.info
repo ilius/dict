@@ -21,9 +21,12 @@
 	"description": "",
 	"word_count": 101406,
 	"bword_count": 29614,
+	"non_lowercase_word_count": 18602,
 	"data_entry_count": 1,
-	"defi_format_counter": "h=101405",
-	"defi_tag_counter": "br=558799, i=398380, font=293905, b=108479, a=29614",
-	"defi_first_tag_counter": "br=101405",
-	"style_counter": ""
+	"data_entry_extension_count": "ico=1",
+	"defi_format": "h=101405",
+	"defi_tag": "br=558799, i=398380, font=293905, b=108479, a=29614",
+	"defi_first_tag": "br=101405",
+	"style": "",
+	"source_script": "Latin=101404, None=2"
 }
